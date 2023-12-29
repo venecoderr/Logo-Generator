@@ -4,17 +4,23 @@
   "description": "CLI based logo generator for all your business needs",
   "exports": "./index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib",
+    "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.2.12",
+    "inquirer": "^9.2.12"
+  },
+  "type": "module",
+  "devDependencies": {
     "jest": "^29.7.0"
   },
-  "type": "module"
+  "jest": {
+    "transform": {}
+  }
 }
