@@ -7,6 +7,7 @@ I wanted to test my grasp of the concepts of object oriented programming and thi
 - [Usage](#usage)
 - [Questions](#questions)
 - [Credits](#credits)
+- [Walkthrough](#walkthrough)
 
 ## Installation
 Install the npm package required using the 'npm i' command
@@ -28,5 +29,10 @@ After answering all the questions your logo will be rendered and you'll find you
 
 ## Tests
 Unit tests are included, use the 'npm test' command to run them
+
 ## Questions
 For questions contact me at [Github](https://github.com/Venecoderr) or [Email me](mailto:josefrm.55@gmail.com)
+
+## Walkthrough
+
+https://watch.screencastify.com/v/SdidkLWFtLXMyDlPcJqH
